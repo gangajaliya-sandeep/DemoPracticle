@@ -1,0 +1,151 @@
+{
+    "teams": [{
+        "id": 1,
+        "team_name": "India",
+        "players": [{
+            "id": 1,
+            "player_name" : "Rohit Sharma"
+        },{
+            "id": 2,
+            "player_name" : "KL Rahul"
+        },{
+            "id": 3,
+            "player_name" : "Virat Kohli"
+        },{
+            "id": 4,
+            "player_name" : "Surya Kumar Yadav"
+        },{
+            "id": 5,
+            "player_name" : "Rishbh Pant"
+        },{
+            "id": 6,
+            "player_name" : "Hardik Pandya"
+        },{
+            "id": 7,
+            "player_name" : "Ravindra Jadeja"
+        },{
+            "id": 8,
+            "player_name" : "Ravichandra Ashwin"
+        },{
+            "id": 9,
+            "player_name" : "Mohammad Shami"
+        },{
+            "id": 10,
+            "player_name" : "Jasprit Bumrah"
+        },{
+            "id": 11,
+            "player_name" : "Shardul Thakur"
+        }]
+    },{
+        "id": 2,
+        "team_name": "Pakistan",
+        "players": [{
+            "id": 12,
+            "player_name" : "Babar Azam"
+        },{
+            "id": 13,
+            "player_name" : "Asif Ali"
+        },{
+            "id": 14,
+            "player_name" : "Fakhar Zaman"
+        },{
+            "id": 15,
+            "player_name" : "Haider ALi"
+        },{
+            "id": 16,
+            "player_name" : "Mohammad Rizwan"
+        },{
+            "id": 17,
+            "player_name" : "Imad Wasim"
+        },{
+            "id": 18,
+            "player_name" : "Mohammad Hafiz"
+        },{
+            "id": 19,
+            "player_name" : "Shabad Khan"
+        },{
+            "id": 20,
+            "player_name" : "Shoaib Malik"
+        },{
+            "id": 21,
+            "player_name" : "Haris Rauf"
+        },{
+            "id": 22,
+            "player_name" : "Hasan Ali"
+        }]
+    },{
+        "id": 3,
+        "team_name": "Australia",
+        "players": [{
+            "id": 23,
+            "player_name" : "Aaron Finch"
+        },{
+            "id": 24,
+            "player_name" : "Pat Cummins"
+        },{
+            "id": 25,
+            "player_name" : "Ashton Agar"
+        },{
+            "id": 26,
+            "player_name" : "Josh Hazlewood"
+        },{
+            "id": 27,
+            "player_name" : "Josh Inglis (wk)"
+        },{
+            "id": 28,
+            "player_name" : "Mitchell Marsh"
+        },{
+            "id": 29,
+            "player_name" : "Glenn Maxwell"
+        },{
+            "id": 30,
+            "player_name" : "Kane Richardson"
+        },{
+            "id": 31,
+            "player_name" : "Steven Smith"
+        },{
+            "id": 32,
+            "player_name" : "Mitchell Starc"
+        },{
+            "id": 33,
+            "player_name" : "Marcus Stoinis"
+        }]
+    },{
+        "id": 4,
+        "team_name": "England",
+        "players": [{
+            "id": 34,
+            "player_name" : "Eoin Morgan (c)"
+        },{
+            "id": 35,
+            "player_name" : "Jos Buttler (vc, wk)"
+        },{
+            "id": 36,
+            "player_name" : "Moeen Ali"
+        },{
+            "id": 37,
+            "player_name" : "Jonny Bairstow (wk)"
+        },{
+            "id": 38,
+            "player_name" : "Sam Billings (wk)"
+        },{
+            "id": 39,
+            "player_name" : "Tom Curran"
+        },{
+            "id": 40,
+            "player_name" : "Chris Jordan"
+        },{
+            "id": 41,
+            "player_name" : "Liam Livingstone"
+        },{
+            "id": 42,
+            "player_name" : "Dawid Malan"
+        },{
+            "id": 43,
+            "player_name" : "Tymal Mills"
+        },{
+            "id": 44,
+            "player_name" : "Adil Rashid"
+        }]
+    }]
+}
